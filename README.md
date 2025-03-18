@@ -1,2 +1,2 @@
 # fsl-first-level
-First Level Analysis using FSL
+First Level Analysis using Nypipe and FSL
